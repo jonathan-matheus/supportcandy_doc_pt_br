@@ -2,6 +2,9 @@
 * [Adicionar novo agente](#adicionarnovoagente)
 * [Adicionar nova função de agente](#adicionarnovafuncaoagente)
 * [Configuração de notificação por email](#configuracaonotificacaodeemail)
+* [Notificação por ticket](#notificacaoticket)
+* [Campos de ticket](#camposdeticket)
+* [Campos do formulário de ticket](#camposdoformularioticket)
 
 ## Adicionar novo agente
 
@@ -58,3 +61,15 @@ cada evento de ticket especifico.
 
 **Observação:** por padrão o plugin já tras uma configuração para cada uma dos 
 principais eventos de ticket.
+
+## Campos de ticket
+E aqui que você criar os seus campos de tickets personalizados
+
+1. Ir para **Support** -> **Ticket Fields** <br><br>
+
+![campos de ticket](imagens/sp_6.png) <br><br>
+
+## Campos do formulário de ticket
+E aqui que podemos personalizar os campos do formulário de ticket
+
+1. Ir para **Support** -> **Custom Fields** -> **Ticket Form Fields** <br><br>
